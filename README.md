@@ -12,9 +12,11 @@ for that (in Eclipse)
 
 3.Select **run configuration**.
 
-4.Go to **Arguments** tab.
+4.Select **FindDupsModified ** 
 
-5.Type your arguments in **program arguments** section.
+5.Go to **Arguments** tab.
+
+6.Type your arguments in **program arguments** section.
 
 
 # **For Last Question**
