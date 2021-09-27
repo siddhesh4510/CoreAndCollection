@@ -12,7 +12,7 @@ for that (in Eclipse)
 
 3.Select **run configuration**.
 
-4.Select **FindDupsModified ** 
+4.Select **FindDupsModified** 
 
 5.Go to **Arguments** tab.
 
