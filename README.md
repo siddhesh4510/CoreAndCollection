@@ -15,3 +15,9 @@ for that (in Eclipse)
 4.Go to **Arguments** tab.
 
 5.Type your arguments in **program arguments** section.
+
+
+# **For Last Question**
+
+go to CoreAndCollection/src/collection/collectionsAnswers.txt
+
